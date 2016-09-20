@@ -1,11 +1,1 @@
-WTF
-<<<<<<< HEAD
-update with tortoise
-ToRtOise
-
-changes?
-=======
-EDDITED
-
-BASH changes\lkx
->>>>>>> 4a50a1de0f403da608c9a2fd311ddca747ca47f3
+IT IS DONE
